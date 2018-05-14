@@ -1,8 +1,3 @@
-//Name :- Namra Fanse
-// Student ID :- 112219175
-//Student Email :- nrfanse@myseneca.ca
-// Lab 1 OOP345
-
 
 #include "CString.h"
 #include <iostream>
