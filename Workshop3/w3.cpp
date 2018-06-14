@@ -1,8 +1,3 @@
-// Workshop 3 - Templates
-// w3.cpp
-// Chris Szalwinski
-// 2018.05.17
-
 #include <fstream>
 #include <iostream>
 #include <iomanip>
