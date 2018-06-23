@@ -1,7 +1,5 @@
-// Workshop 5 - Lambda Expression
-// w5.cpp
-// Chris Szalwinski
-// 2018-05-23
+// add try-catch block around the almbda expresion to get rid of error thing.
+
 
 #include <iostream>
 #include "Grades.h"
