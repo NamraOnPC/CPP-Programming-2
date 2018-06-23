@@ -1,4 +1,4 @@
-// add try-catch block around the almbda expresion to get rid of error thing.
+// add try-catch block around the lambda expresion to get rid of error thing.
 
 
 #include <iostream>
