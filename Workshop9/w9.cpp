@@ -1,9 +1,3 @@
-//Name :- Namra Fanse
-//Student Number :- 112219175
-//Email:- nrfanse@myseneca.ca
-//OOP345 Lab9
-
-
 
 #include <iostream>
 #include <string>
