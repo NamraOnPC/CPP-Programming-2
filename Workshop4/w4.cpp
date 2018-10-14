@@ -1,7 +1,3 @@
-// Workshop 4 - Containers
-// w4.cpp
-// Chris Szalwinski
-// 2018-05-21
 
 #include <iostream>
 #include <fstream>
