@@ -1,7 +1,3 @@
-//Name :- Namra Fanse
-//Student Number :- 112219175
-//Email :- nrfanse@myseneca.ca
-
 
 #ifndef _LIST_H_
 #define _LIST_H_
