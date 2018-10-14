@@ -1,8 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Email :- nrfanse@myseneca.ca
-//LAB 5 OOP345
-
 
 #include "Grades.h"
 
