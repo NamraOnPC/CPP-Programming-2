@@ -1,8 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Student Email :- nrfanse@myseneca.ca
-//Date :- 2/6/2015
-//Lab 3 OOP345
 
 #ifndef _KVLIST_H
 #define _KVLIST_H
