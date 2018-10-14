@@ -1,8 +1,3 @@
-//Name :- Namra Fanse
-//Student Number :- 112219175
-//Email:- nrfanse@myseneca.ca
-//OOP345 Lab9
-
 
 #ifndef _SECURE_DATA_H_
 #define _SECURE_DATA_H_
