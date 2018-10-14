@@ -1,7 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Email :- nrfanse@myseneca.ca
-//LAB 4 OOP345
 
 #include <string>
 #include "Notifications.h"
