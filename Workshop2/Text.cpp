@@ -1,7 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Student Email :- nrfanse@myseneca.ca
-//Lab 2 
 
 #include <iostream>
 #include "Text.h"
