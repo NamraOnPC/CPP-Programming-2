@@ -1,7 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Student Email :- nrfanse@myseneca.ca
-//Lab 2 
 
 #ifndef TEXT_H
 #define TEXT_H
