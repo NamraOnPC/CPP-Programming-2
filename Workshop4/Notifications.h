@@ -1,8 +1,3 @@
-//Name :- Namra Fanse
-//Student No :- 112219175
-//Email :- nrfanse@myseneca.ca
-//LAB 4 OOP345
-
 
 #ifndef _NOTIFICATIONS_H
 #define _NOTIFICATIONS_H
